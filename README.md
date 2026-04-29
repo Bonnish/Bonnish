@@ -31,7 +31,7 @@
 ## 📂 Featured Projects
 
 ### 🤖 [Cali Bot](https://github.com/Bonnish/cali-bot)
-> **All-in-one Discord Solution** with a modular architecture and advanced management dashboard.
+> **Discord bot** with a modular architecture and advanced management dashboard.
 * **Backend:** Python (Django & Discord.py), PostgreSQL.
 * **Frontend:** React + Vite, Tailwind CSS.
 * **Highlight:** Complex admin systems, economy modules, and real-time dashboard synchronization.
