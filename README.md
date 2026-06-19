@@ -48,4 +48,5 @@ I am **actively looking for new opportunities** and open to collaborations. Whet
 
 📫 **How to reach me:**
 - 📧 **Email:** [marcogajardo.jimenez@gmail.com](mailto:marcogajardo.jimenez@gmail.com)
+- 💼 **LinkedIn** [linkedin.com/in/marco-gajardo-jimenez](https://www.linkedin.com/in/marco-gajardo-jimenez)
 - 🚀 Open to opportunities where I can grow as a developer and contribute to real-world projects.
