@@ -1,6 +1,6 @@
 # Hi, I'm Marco 👋 
 
-### 🚀 Full-stack Developer & Game Systems Developer
+### 🚀 Full-stack Developer & Game Developer
 *Software Engineering Student | Focused on Scalable Solutions & Game Scripting*
 
 ---
